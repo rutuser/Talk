@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "*.tpp": "cpp",
+        "__nullptr": "cpp",
+        "cstddef": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "algorithm": "cpp",
+        "__config": "cpp",
+        "iosfwd": "cpp",
+        "functional": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "thread": "cpp",
+        "system_error": "cpp",
+        "atomic": "cpp",
+        "vector": "cpp"
+    },
+    "terminal.integrated.shell.windows": "cmd.exe"
+}
